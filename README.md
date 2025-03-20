@@ -5,7 +5,7 @@ The Horoscope Fortune Teller is a simple command-line application written in Jav
 
 ## Features
 - Prompts the user to enter their birth month (1-12).
-- Allows the user to specify how many fortunes they would like to see (1-5).
+- Allows the user to specify how many fortunes they would like to see (1-2).
 - Randomly selects and displays fortunes based on the user's zodiac sign.
 - Validates user input to ensure the month is within the correct range.
 
@@ -29,7 +29,7 @@ Follow the prompts to enter your birth month and the number of fortunes you woul
 
 Example
 Enter your birth month (1-12): 5
-How many fortunes would you like to see? (1-5): 2
+How many fortunes would you like to see? (1-2): 2
 Your zodiac sign is Taurus.
 Fortune 1: Patience is key; good things come to those who wait.
 Fortune 2: A surprise awaits you.
